@@ -1,2 +1,2 @@
 # CafeMangementProject
-I have created simple cafe management project using simple python
+I have created simple cafe management project using basic python
